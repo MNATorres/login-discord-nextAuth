@@ -54,7 +54,7 @@ const Home: NextPage = () => {
           <Flex h={16} alignItems={"center"} justifyContent={"space-between"}>
             <Box>
               <Text fontSize="2xl" as="b">
-                Discord NextAuth
+                Conectado
               </Text>
             </Box>
 
@@ -110,7 +110,7 @@ const Home: NextPage = () => {
         <Flex h={16} alignItems={"center"} justifyContent={"space-between"}>
           <Box>
             <Text fontSize="2xl" as="b">
-              Discord NextAuth
+              Desconectado
             </Text>
           </Box>
 
